@@ -1,0 +1,25 @@
+﻿body {
+    position: relative;
+}
+.bb {
+    position: relative;
+    
+}
+
+#left {
+    position: absolute;
+    left: 18px;
+    top: 58px;
+    width: 24px;
+    height: 24px;
+    background-color: rgba(16, 16, 16, 100);
+}
+
+.skip {
+    
+    
+    font-size: 300rem;
+    background-color: red;
+    
+    
+}
